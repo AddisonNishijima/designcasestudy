@@ -1,0 +1,56 @@
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: white;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 45px;
+  text-shadow: 3px 3px 5px black;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+ul {
+  display: table;
+  margin:0 auto;
+  color: white;
+  font-size: 20px;
+}
+
+ul li {
+  list-style-position: outside;
+}
+
+body {
+  /* background: */
+background-image: linear-gradient(-180deg, #3C3B3B 0%, #000000 100%);
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+a p {
+  color: #cb663c;
+}
+a:hover {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
